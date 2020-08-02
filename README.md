@@ -19,20 +19,16 @@ The following **optional** features are implemented:
 * [ ] Using locale-specific currency and currency thousands separators.
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of how the app works:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/3uHm22YEsI.gif' title='TipTime' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-It was pretty challenging trying to remember bill amount across app restarts and I was unable to do so after trying. Setting up the settings tab proved to be tedious but I was able to make it work. 
+It was pretty challenging trying to remember bill amount across app restarts and I was unable to do so after trying. Setting up the settings tab proved to be tedious but I was able to make it work. Had a fun time creating this app and look forward to learning and experimenting with Swift. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
