@@ -2,7 +2,7 @@
 
 **TipTime** is a tip calculator application for iOS.
 
-Submitted by: **Shreyas**
+Submitted by: **Shreyas Pant**
 
 Time spent: **7-8** hours spent in total
 
