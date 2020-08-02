@@ -25,7 +25,7 @@ Here's a walkthrough of how the app works:
 
 <img src='http://g.recordit.co/3uHm22YEsI.gif' title='TipTime' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 It was pretty challenging trying to remember bill amount across app restarts and I was unable to do so after trying. Setting up the settings tab proved to be tedious but I was able to make it work. Had a fun time creating this app and look forward to learning and experimenting with Swift. 
