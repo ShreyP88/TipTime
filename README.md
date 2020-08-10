@@ -31,7 +31,7 @@ Here's a walkthrough of how the app works:
 GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
-It was pretty challenging trying to remember bill amount across app restarts and I was unable to do so after trying. Setting up the settings tab proved to be tedious but I was able to make it work. Had a fun time creating this app and look forward to learning and experimenting with Swift. 
+It was pretty challenging trying to remember bill amount across app restarts and I'm still currently working on this aspect of the app. Setting up the settings tab proved to be tedious but I was able to make it work. Had a fun time creating this app and look forward to learning and experimenting with Swift. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
