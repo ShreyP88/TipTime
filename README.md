@@ -4,7 +4,7 @@
 
 Submitted by: **Shreyas Pant**
 
-Time spent: **7-8** hours spent in total
+Time spent: **5-6** hours spent in total
 
 ## User Stories
 
